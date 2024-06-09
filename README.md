@@ -22,3 +22,7 @@ e. cd ~/.mozilla/firefox/xxxxxxxx.privatesecure
 
 7) Copy the user.js file from your downloads to the firefox folder
 f. cp /home/kali/Downloads/Secure_Docs/user.js ~/.mozilla/firefox/yq4po10z.secure
+
+NOTE: If you have integrated firejail and apparmor for additional browser security and microsegmentation For Step 3 and 4 use
+i)  firejail firefox -ProfileManager
+ii) firejail firefox -CreateProfile secure
