@@ -1,3 +1,13 @@
+// This hardening configuration has been integrated to work with my Secure_Tor_Ip_Changer to provide a private,secure and less tracking browsing experience
+// ------------------------------------------------------------------
+//
+//    Copyright (C) 2024 privateboss01
+//
+//    This program is free software; you can redistribute it and/or
+//    modify it under the terms of MIT License
+//
+// ------------------------------------------------------------------
+
 user_pref("browser.aboutConfig.showWarning", false);
 user_pref("browser.shell.checkDefaultBrowser", false);
 user_pref("browser.startup.page",  0);
