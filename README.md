@@ -2,7 +2,7 @@
 Firefox user.js hardening configuration to prevent anti-tracking, privacy and security when browsing the internet.
 
 How to Install the user.js script in your browser:
-Firstly ensure you have Secure_Ip_Tor_Changer from https://github.com/privateboss0/Secure_Tor_Ip_Changer installed and running or you will have to make some modifications to this script.
+Firstly ensure you have Secure_Ip_Tor_Changer from https://github.com/privateboss0/Secure_Tor_Ip_Changer installed and running or you ca use the standalone browser version of the project from https://github.com/privateboss0/Artificial_Intelligence_Stanford/blob/devilgod/Stanford_AI.ME/Assignments_and_projects/Secure_browser_customization/user.js
 
 1) Close your Browser:
 
