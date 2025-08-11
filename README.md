@@ -28,7 +28,8 @@ Firstly ensure you have Secure_Ip_Tor_Changer from https://github.com/privatebos
 8) Copy the user.js file from your downloads to the firefox folder
 
       **f.** cp /home/kali/Downloads/Secure_Docs/user.js ~/.mozilla/firefox/xxxxxxxx.privatesecure -(Debian, Kali, Parrot OS)
-                            From Downloads directory, cp user.js /home/eaif/snap/firefox/common/.mozilla/firefox/xxxxxxxx.privatesecure/ (Ubuntu and it's flavours)
+             
+        From Downloads directory, cp user.js /home/eaif/snap/firefox/common/.mozilla/firefox/xxxxxxxx.privatesecure/ (Ubuntu and it's flavours)
    
 
 NOTE: If you have integrated firejail and app-armor for additional browser security and microsegmentation For Step 3 and 4 use
